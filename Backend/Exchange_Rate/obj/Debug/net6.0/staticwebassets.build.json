@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ikQjADuZMsxqZ5phgxsUR8cly1fzn2S0/KW0NmiYbA4=",
+  "Source": "Exchange_Rate",
+  "BasePath": "_content/Exchange_Rate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
